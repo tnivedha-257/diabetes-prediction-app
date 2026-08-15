@@ -3,6 +3,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Flask](https://img.shields.io/badge/flask-app-green)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 
 This is a Flask-based web application and API that predicts whether a patient is diabetic based on various medical features. It uses a trained Logistic Regression model from scikit-learn.
 
@@ -23,7 +24,7 @@ git clone https://github.com/tnivedha-257/diabetes-prediction-app.git
 cd diabetes-prediction-app
 ```
 
-**2. Create a Virtual Environment (Optional but Recommended)**
+**2. Create a Virtual Environment (Recommended)**
 ```bash
 python -m venv venv
 venv\Scripts\activate   # On Windows

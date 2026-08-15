@@ -43,6 +43,8 @@ pip install -r requirements.txt
 python app.py
 ```
 The server will start and provide a URL (usually `http://127.0.0.1:5000`).
+It will also provide your current network address, (like Running on http://10.17.86.42:5000). 
+You can give this address to others who have connected to the same network and they can use your app.
 
 **2. Access the Web Interface**
 Open your browser and navigate to the URL provided by the server to interact with the prediction form.

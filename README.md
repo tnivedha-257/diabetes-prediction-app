@@ -19,12 +19,11 @@ To run this project on your local machine, you must first clone the repository a
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git
-cd YOUR-REPOSITORY-NAME
+git clone https://github.com/tnivedha-257/diabetes-prediction-app.git
+cd diabetes-prediction-app
 ```
-*(Note: Replace `YOUR-USERNAME/YOUR-REPOSITORY-NAME` with your actual GitHub link once created).*
 
-**2. Create a Virtual Environment (Recommended)**
+**2. Create a Virtual Environment (Optional but Recommended)**
 ```bash
 python -m venv venv
 venv\Scripts\activate   # On Windows

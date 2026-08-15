@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 
-This is a Flask-based web application and API that predicts whether a patient is diabetic based on various medical features. It uses a trained Logistic Regression model from scikit-learn.
+This is a Flask-based web application and API that predicts whether a patient is diabetic based on various medical features (Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function, and Age). It uses a Logistic Regression model trained with the PIMA INDIAN Dataset using scikit-learn.
 
 ## Directory Structure
 - `app.py`: The main Flask web server.

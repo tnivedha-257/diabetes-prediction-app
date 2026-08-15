@@ -24,7 +24,7 @@ cd YOUR-REPOSITORY-NAME
 ```
 *(Note: Replace `YOUR-USERNAME/YOUR-REPOSITORY-NAME` with your actual GitHub link once created).*
 
-**2. Create a Virtual Environment (Optional but Recommended)**
+**2. Create a Virtual Environment (Recommended)**
 ```bash
 python -m venv venv
 venv\Scripts\activate   # On Windows
